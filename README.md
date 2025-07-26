@@ -57,9 +57,15 @@ After creating the database, update the connection string in the application to 
 
 Add screenshots of the application UI here (optional).
 
+
 ## License
 
-This project is for educational purposes.
+This project is licensed under the Educational Community License, Version 2.0 (ECL-2.0). See the [LICENSE](./LICENSE) file for details.
+
+**Key points:**
+- Free for educational and non-commercial use only
+- Redistributions must retain the copyright and license
+- No warranty is provided
 
 ---
 Thank you for using the Student Attendance Management System!
